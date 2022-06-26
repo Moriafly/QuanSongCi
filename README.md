@@ -17,4 +17,4 @@
 - 2022 年 6 月 26 日 《摸鱼儿》吴泳 篇中「HH循除水」修订为「 氵虢氵虢循除水」，氵虢（单字，左水右虢），音 huo 去声。意：流水声。（2022 年 6 月 26 日查于商务印书馆《古汉语常用字字典第 4 版》163 页）
 - 2022 年 6 月 26 日 修改一些词人介绍的文本格式；添加词人 白君瑞 介绍。（来源：国学典 http://www.guoxuedian.com/authorv_866.html 和 诗词网.net http://shici.fzlol.com/zuozhe/8/2401.html）
 - 2022 年 6 月 26 日 修正词人 田为 简介的格式。
-- 2022 年 6 月 26 日（来自 https://github.com/chinese-poetry/chinese-poetry/issues/261）的问题修订）《江南春・秋风清》江南春尽离肠远「远」应作「断」
+- 2022 年 6 月 26 日（来自 https://github.com/chinese-poetry/chinese-poetry/issues/261 ）的问题修订）《江南春・秋风清》江南春尽离肠远「远」应作「断」
